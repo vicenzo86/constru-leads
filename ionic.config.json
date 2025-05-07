@@ -1,0 +1,8 @@
+{
+  "name": "Constru-Leads",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "40b3b01a"
+}
